@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "X-encounter (y0c1e REMIX)",
+  "base_artist": "黒崎真音",
+  "createdAt": "2026-01-08T01:28:41.501473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/01_X-encounter_(y0c1e_REMIX)_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/02_X-encounter_(y0c1e_REMIX)_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_01_X-encounter_(y0c1e_REMIX)_黒崎真音.txt"
+    }
+  ]
+}
